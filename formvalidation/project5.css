@@ -1,0 +1,29 @@
+#form {
+  text-align: center;
+  padding-top: 6rem;
+  line-height: 2;
+  margin-top: 6rem;
+  left: 0;
+  margin-left: 26rem;
+  right: 0;
+  height: 18rem;
+  width: 20rem;
+}
+
+#h1 {
+  font-size: 1.4rem;
+}
+
+.label {
+  font-size: 1.2rem;
+  margin-right: 2rem;
+}
+
+#submit {
+  border: 2px solid white;
+  background-color: green;
+}
+
+input {
+  outline: none;
+}
